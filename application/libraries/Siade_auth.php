@@ -21,12 +21,17 @@ class Siade_auth {
                 'message'   => 'Error: tidak bisa login'
             );
             $this->CI->load->model('All_login');
-            $result = $this->CI->all_login->check_login($username, $password);
+            $result = $this->CI->All_login->check_login($username, $password);
             if ($result){
                 $data = array(
                     'status'    => 1,
                     'message'   => 'Berhasil: anda telah login'
                 );                
+            } else {
+                $data = array(
+                    'status'    => 0,
+                    'message'   => 'Gagal: Akun anda tidak diketemukan'
+                );
             }
             return $data;
         }        

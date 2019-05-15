@@ -11,7 +11,7 @@
 				</li>
 				
 				<li class="start ">
-					<a href="{SITE_URL}dashboard">
+					<a href="{SITE_URL}/dashboard">
 					<i class="fa fa-home"></i>
 					<span class="title">
 						Dashboard
@@ -20,7 +20,7 @@
 				</li>
                                 
                                 <li class=" ">
-					<a href="{SITE_URL}penduduk/keluarga">
+					<a href="{SITE_URL}/penduduk/keluarga">
 					<i class="fa fa-briefcase"></i>
 					<span class="title">
 						Keluarga
@@ -28,7 +28,7 @@
 					</a>
 				</li>
                                 <li class=" ">
-					<a href="{SITE_URL}penduduk/home">
+					<a href="{SITE_URL}/penduduk/home">
 					<i class="fa fa-home"></i>
 					<span class="title">
 						Penduduk
@@ -36,7 +36,7 @@
 					</a>
 				</li>
                                 <li class=" ">
-					<a href="{SITE_URL}inventaris/home">
+					<a href="{SITE_URL}/inventaris/home">
 					<i class="fa fa-home"></i>
 					<span class="title">
 						Inventaris
@@ -47,8 +47,8 @@
 					</span>
 					</a>
 					<ul class="sub-menu">
-                                                <li><a href="{SITE_URL}inventaris/kategori">Kategori</a></li>
-						<li><a href="{SITE_URL}inventaris/assets">Daftar Inventaris</a></li>
+                                                <li><a href="{SITE_URL}/inventaris/kategori">Kategori</a></li>
+						<li><a href="{SITE_URL}/inventaris/assets">Daftar Inventaris</a></li>
 												
 					</ul>	
 				</li>
@@ -66,70 +66,70 @@
                                         
                                         <ul class="sub-menu">
                                                 <li>
-							<a href="{SITE_URL}surat/home/index/keterangan_miskin">
+							<a href="{SITE_URL}/surat/home/index/keterangan_miskin">
 							<span class="badge badge-roundless badge-important">
 								new
 							</span>
 							Surat Kemiskinan</a>
 						</li>
                                                 <li>
-							<a href="{SITE_URL}surat/home/index/keterangan_lahir">
+							<a href="{SITE_URL}/surat/home/index/keterangan_lahir">
 							<span class="badge badge-roundless badge-important">
 								new
 							</span>
 							Surat Kelahirah</a>
 						</li>
                                                 <li>
-							<a href="{SITE_URL}surat/home/index/keterangan_kematian">
+							<a href="{SITE_URL}/surat/home/index/keterangan_kematian">
 							<span class="badge badge-roundless badge-important">
 								new
 							</span>
 							Surat Kematian</a>
 						</li>
                                                 <li>
-							<a href="{SITE_URL}surat/home/index/kartu_keluarga">
+							<a href="{SITE_URL}/surat/home/index/kartu_keluarga">
 							<span class="badge badge-roundless badge-important">
 								new
 							</span>
 							Surat Kartu Keluarga</a>
 						</li>
                                                 <li>
-							<a href="{SITE_URL}surat/home/index/ktp">
+							<a href="{SITE_URL}/surat/home/index/ktp">
 							<span class="badge badge-roundless badge-important">
 								new
 							</span>
 							KTP</a>
 						</li>
                                                 <li>
-							<a href="{SITE_URL}surat/home/index/pengantar">
+							<a href="{SITE_URL}/surat/home/index/pengantar">
 							<span class="badge badge-roundless badge-important">
 								new
 							</span>
 							Surat Pengantar</a>
 						</li>
                                                 <li>
-							<a href="{SITE_URL}surat/home/index/pengantar_berpergian">
+							<a href="{SITE_URL}/surat/home/index/pengantar_berpergian">
 							<span class="badge badge-roundless badge-important">
 								new
 							</span>
 							Surat Pengantar Berpergian</a>
 						</li>
                                                 <li>
-							<a href="{SITE_URL}surat/home/index/keterangan_domisili">
+							<a href="{SITE_URL}/surat/home/index/keterangan_domisili">
 							<span class="badge badge-roundless badge-important">
 								new
 							</span>
 							Surat Keterangan Domisili</a>
 						</li>
                                                 <li>
-							<a href="{SITE_URL}surat/home/index/keterangan_tidak_mampu">
+							<a href="{SITE_URL}/surat/home/index/keterangan_tidak_mampu">
 							<span class="badge badge-roundless badge-important">
 								new
 							</span>
 							Surat Keterangan Tidak Mampu</a>
 						</li>
                                                 <li>
-							<a href="{SITE_URL}surat/home/index/keterangan_skck">
+							<a href="{SITE_URL}/surat/home/index/keterangan_skck">
 							<span class="badge badge-roundless badge-important">
 								new
 							</span>
@@ -151,14 +151,14 @@
 					</a>
                                         <ul class="sub-menu">
                                                 <li>
-							<a href="{SITE_URL}info/home/index/kelahiran">
+							<a href="{SITE_URL}/info/home/index/kelahiran">
 							<span class="badge badge-roundless badge-important">
 								new
 							</span>
 							Kelahiran</a>
 						</li>
                                                 <li>
-							<a href="{SITE_URL}info/home/index/kematian">
+							<a href="{SITE_URL}/info/home/index/kematian">
 							<span class="badge badge-roundless badge-important">
 								new
 							</span>
@@ -179,14 +179,14 @@
 					</a>
                                         <ul class="sub-menu">
                                                 <li>
-							<a href="{SITE_URL}pertanahan/home/index/blok">
+							<a href="{SITE_URL}/pertanahan/home/index/blok">
 							<span class="badge badge-roundless badge-important">
 								new
 							</span>
 							Blok</a>
 						</li>
                                                 <li>
-							<a href="{SITE_URL}pertanahan/home/index/persil">
+							<a href="{SITE_URL}/pertanahan/home/index/persil">
 							<span class="badge badge-roundless badge-important">
 								new
 							</span>
@@ -207,14 +207,14 @@
 					</a>
                                         <ul class="sub-menu">
                                                 <li>
-							<a href="{SITE_URL}statistik/home/index/kemiskinan">
+							<a href="{SITE_URL}/statistik/home/index/kemiskinan">
 							<span class="badge badge-roundless badge-important">
 								new
 							</span>
 							Kemiskinan</a>
 						</li>
                                                 <li>
-							<a href="{SITE_URL}statistik/home/index/kematian">
+							<a href="{SITE_URL}/statistik/home/index/kematian">
 							<span class="badge badge-roundless badge-important">
 								new
 							</span>
@@ -235,11 +235,11 @@
 					</a>
 					<ul class="sub-menu">
                         <li>
-						<a href="{SITE_URL}keuangan/anggaran">Anggaran</a>
+						<a href="{SITE_URL}/keuangan/anggaran">Anggaran</a>
 						</li>
-						<li><a href="{SITE_URL}keuangan/pencairan">Pencairan</a></li>
-						<li><a href="{SITE_URL}keuangan/realisasi">Realisasi</a></li>
-						<li><a href="{SITE_URL}keuangan/laporan">Cetak Laporan</a></li>
+						<li><a href="{SITE_URL}/keuangan/pencairan">Pencairan</a></li>
+						<li><a href="{SITE_URL}/keuangan/realisasi">Realisasi</a></li>
+						<li><a href="{SITE_URL}/keuangan/laporan">Cetak Laporan</a></li>
 					</ul>	
 				</li>
                                 
@@ -257,49 +257,49 @@
 					</a>
                                         <ul class="sub-menu">
                                                 <li>
-							<a href="{SITE_URL}master/propinsi">
+							<a href="{SITE_URL}/master/propinsi">
 							<span class="badge badge-roundless badge-important">
 								new
 							</span>
 							Propinsi</a>
 						</li>
                                                 <li>
-							<a href="{SITE_URL}master/kabupaten">
+							<a href="{SITE_URL}/master/kabupaten">
 							<span class="badge badge-roundless badge-important">
 								new
 							</span>
 							Kabupatent/Kota</a>
 						</li>
                                                 <li>
-							<a href="{SITE_URL}master/kecamatan">
+							<a href="{SITE_URL}/master/kecamatan">
 							<span class="badge badge-roundless badge-important">
 								new
 							</span>
 							Kecamatan</a>
 						</li>
                                                 <li>
-							<a href="{SITE_URL}master/kelurahan">
+							<a href="{SITE_URL}/master/kelurahan">
 							<span class="badge badge-roundless badge-important">
 								new
 							</span>
 							Kelurahan/Desa</a>
 						</li>
                                                 <li>
-							<a href="{SITE_URL}master/agama">
+							<a href="{SITE_URL}/master/agama">
 							<span class="badge badge-roundless badge-important">
 								new
 							</span>
 							Agama</a>
 						</li>
                                                 <li>
-							<a href="{SITE_URL}master/pekerjaan">
+							<a href="{SITE_URL}/master/pekerjaan">
 							<span class="badge badge-roundless badge-important">
 								new
 							</span>
 							Pekerjaan</a>
 						</li>
                                                 <li>
-							<a href="{SITE_URL}master/pendidikan">
+							<a href="{SITE_URL}/master/pendidikan">
 							<span class="badge badge-roundless badge-important">
 								new
 							</span>
@@ -324,21 +324,21 @@
 					</a>
                                         <ul class="sub-menu">
                                                 <li>
-							<a href="{SITE_URL}pengguna/akun">
+							<a href="{SITE_URL}/pengguna/akun">
 							<span class="badge badge-roundless badge-important">
 								new
 							</span>
 							Pengguna</a>
 						</li>
                                                 <li>
-							<a href="{SITE_URL}pengguna/group_akun">
+							<a href="{SITE_URL}/pengguna/group_akun">
 							<span class="badge badge-roundless badge-important">
 								new
 							</span>
 							Group Pengguna</a>
 						</li>
                                                 <li>
-							<a href="{SITE_URL}pengguna/otoritas">
+							<a href="{SITE_URL}/pengguna/otoritas">
 							<span class="badge badge-roundless badge-important">
 								new
 							</span>
@@ -359,14 +359,14 @@
 					</a>
                                         <ul class="sub-menu">
                                                 <li>
-							<a href="{SITE_URL}konfigurasi/desa">
+							<a href="{SITE_URL}/konfigurasi/desa">
 							<span class="badge badge-roundless badge-important">
 								new
 							</span>
 							Desa</a>
 						</li>
                                                 <li>
-							<a href="{SITE_URL}konfigurasi/Email">
+							<a href="{SITE_URL}/konfigurasi/Email">
 							<span class="badge badge-roundless badge-important">
 								new
 							</span>

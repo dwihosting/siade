@@ -6,6 +6,13 @@ class Keluarga extends CI_Controller {
     function __construct() {
             parent::__construct();
             $this->themes = $this->config->item('themes');
+            $this->load->model('All_negara');
+            $this->load->model('All_propinsi');
+            $this->load->model('All_kabupaten');
+            $this->load->model('All_agama');
+            $this->load->model('All_pekerjaan');
+            $this->load->model('All_kartukeluarga');
+            
             $this->load->model('keluarga_mdl');
         } 
         

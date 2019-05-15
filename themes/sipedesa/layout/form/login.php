@@ -44,7 +44,7 @@
 <!-- BEGIN LOGIN -->
 <div class="content">
 	<!-- BEGIN LOGIN FORM -->
-	<form class="login-form" action="{SITE_URL}login" method="post">
+	<form class="login-form" action="{SITE_URL}/login" method="post">
 	    <div class="col-md-6">	
                 <h3 class="form-title">&nbsp;</h3>
 		{ERROR_SECTION}
@@ -84,7 +84,7 @@
 	</form>
 	<!-- END LOGIN FORM -->
 	<!-- BEGIN FORGOT PASSWORD FORM -->
-	<form class="forget-form" action="{SITE_URL}home/forget_password" method="post">
+	<form class="forget-form" action="{SITE_URL}/home/forget_password" method="post">
 		<h3>Forget Password ?</h3>
 		<p>
 			 Enter your e-mail address below to reset your password.

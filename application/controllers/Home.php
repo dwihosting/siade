@@ -30,6 +30,7 @@ class Home extends CI_Controller {
         
         public function login()
         {
+            echo md5('demo');
             $data = array(
                 'BASE_URL'  => base_url(),
                 'SITE_URL'  => site_url(),

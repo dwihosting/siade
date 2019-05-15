@@ -5,12 +5,12 @@ class Keluarga_mdl extends Main_mdl {
 
     function __construct() {
         parent::__construct();
-        $kklist         = $this->all_kartukeluarga->get_option();
-        $agamalist      = $this->all_agama->get_option();
-        $pekerjaanlist  = $this->all_pekerjaan->get_option();
-        $negaralist     = $this->all_negara->get_option();
-        $propinsilist   = $this->all_propinsi->get_option();
-        $kabupatenlist   =$this->all_kabupaten->get_option();
+        $kklist         = $this->All_kartukeluarga->get_option();
+        $agamalist      = $this->All_agama->get_option();
+        $pekerjaanlist  = $this->All_pekerjaan->get_option();
+        $negaralist     = $this->All_negara->get_option();
+        $propinsilist   = $this->All_propinsi->get_option();
+        $kabupatenlist   =$this->All_kabupaten->get_option();
         $kecamatanlist   = array();
         $kelurahanlist   = array();
         $kawinlist       = array('MENIKAH'=>'MENIKAH','TIDAK MENIKAH'=>'TIDAK MENIKAH','DUDA/JANDA'=>'DUDA/JANDA');   
